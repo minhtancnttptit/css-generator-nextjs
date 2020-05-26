@@ -1,0 +1,11 @@
+.previewBox {
+  width: 200px;
+  height: 200px;
+  background-color: aqua;
+}
+
+.previewTransform {
+  width: 200px;
+  height: 200px;
+  outline: 1px solid #333;
+}

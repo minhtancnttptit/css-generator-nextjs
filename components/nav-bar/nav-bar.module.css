@@ -1,3 +1,4 @@
+
 .navigation ul {
   font: bold 11px 'Helvetica Neue', Helvetica, Arial, sans-serif;
   margin: 2em 2em 2em 2em;
@@ -26,24 +27,4 @@
 .navigation li:last-child a {
   border-right: 0;
   border-radius: 0 4px 4px 0;
-}
-
-.row {
-  display: flex;
-}
-
-.column {
-  flex: 50%;
-}
-
-.previewBox {
-  width: 200px;
-  height: 200px;
-  background-color: aqua;
-}
-
-.previewTransform {
-  width: 200px;
-  height: 200px;
-  outline: 1px solid #333;
 }
